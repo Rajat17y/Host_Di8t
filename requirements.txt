@@ -1,5 +1,6 @@
 # Streamlit for frontend
 streamlit
+scikit-learn
 
 # Firebase authentication and database
 pyrebase4
