@@ -1,3 +1,5 @@
+import logging
+logging.basicConfig(level=logging.DEBUG)
 import streamlit as st
 import pyrebase
 import time
