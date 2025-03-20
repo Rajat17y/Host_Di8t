@@ -1,17 +1,21 @@
+# Streamlit for frontend
 streamlit
-pyrebase
-time
-firebase_admin
-firebase_admin
-uuid
+
+# Firebase authentication and database
+pyrebase4
+firebase-admin
+google-cloud-firestore
+
+# Data handling and analysis
 pandas
-plotly.express
-datetime
-os
-json
+
+# Plotting
+plotly
+
+# Handling HTTP requests
 requests
-runpy
-importlib
-pandas
-time
+
+# For working with time and threading
 threading
+
+# UUID and JSON are part of Python’s standard library, so no need to include them.
