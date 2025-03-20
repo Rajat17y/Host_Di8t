@@ -18,7 +18,6 @@ plotly
 
 # HTTP requests
 requests
-watchdog
 
 # For working with time and threading
 setuptools
