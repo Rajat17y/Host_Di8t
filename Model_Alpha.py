@@ -3,7 +3,7 @@ import numpy as np
 
 file_path = "nutrients.csv"
 dataset = pd.read_csv(file_path)
-users = pd.read_csv(r'data\all_survey_responses.csv')
+users = pd.read_csv('data/all_survey_responses.csv')
 
 # Replace alphabets in specific columns (by index)
 columns_to_replace = [3, 4, 5, 6, 7, 8]
