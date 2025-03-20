@@ -6,16 +6,17 @@ pyrebase4
 firebase-admin
 google-cloud-firestore
 
+# Google Cloud dependencies (to replace deprecated gcloud)
+google-cloud-storage
+
 # Data handling and analysis
 pandas
 
 # Plotting
 plotly
 
-# Handling HTTP requests
+# HTTP requests
 requests
 
 # For working with time and threading
-
-
-# UUID and JSON are part of Python’s standard library, so no need to include them.
+setuptools
